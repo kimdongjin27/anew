@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void hi(){
-  printf("LINUX world~~\n");
+void hi() {
+  printf("Linux World~!!\n");
 }

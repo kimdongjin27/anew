@@ -1,0 +1,15 @@
+합계 52
+drwxr-xr-x 4 root root 4096 10월 14 11:25 ./
+drwxr-xr-x 4 root root 4096 10월 14 10:58 ../
+drwxr-xr-x 2 root root 4096 10월 13 15:50 dir1/
+drwx------ 2 root root 4096 10월 13 15:53 dir2/
+-rwx------ 1 root root   28 10월 13 15:38 ls.sh*
+-rw-r--r-- 1 root root  102 10월 14 11:24 my.sh
+-rw-r--r-- 1 root root 2901 10월 13 17:18 passwd
+-rw-r--r-- 1 root root  712 10월 13 16:18 setgid_files
+-rw-r--r-- 1 root root 1102 10월 13 16:16 setuid_files
+-rw-r--r-- 1 root root 1816 10월 13 16:19 stickybit_files
+-rw-r--r-- 1 root root  668 10월 14 11:25 test
+-rw-r--r-- 1 root root 3445 10월 13 17:25 test1
+-rw-r--r-- 1 root root 3445 10월 13 17:24 test2
+-rw-r--r-- 1 root root    0 10월 14 11:25 text

@@ -1,1 +1,1 @@
-int checkprime(int);
+extern int checkprime(int);

@@ -1,0 +1,23 @@
+diff -Naur a/main.c b/main.c
+<<<<<<< HEAD
+--- a/main.c	2022-10-27 11:31:06.549922131 +0900
++++ b/main.c	2022-10-27 11:32:01.141289041 +0900
+@@ -1,6 +1,7 @@
+ #include<stdio.h>
+ 
+ int main() {
++	printf("Hello, Wrold~!!);
+ 	return O;
+ }
+ 
+=======
+--- a/main.c	2022-10-27 11:30:46.729605545 +0900
++++ b/main.c	2022-10-27 11:31:43.006442752 +0900
+@@ -1,5 +1,6 @@
+ #include <stdio.h>
+ 
+ int main() {
++	printf("Hello, World~!!");
+ 	return 0;
+ }
+>>>>>>> 22e3519fb3a79436207a83c97240d8f6c8754760

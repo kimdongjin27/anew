@@ -2,8 +2,8 @@
 #include "a.h"
 void func1() ;
 void func2() ;
-void main() {
-  printf("Test1~!\n");
+void main(){
+  printf("Test1\n");
   func1();
   func2();
 }

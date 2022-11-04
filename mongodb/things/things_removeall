@@ -1,0 +1,3 @@
+things_removeall
+db.things.remove({})
+db.things.find()

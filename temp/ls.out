@@ -1,0 +1,4 @@
+.:
+./     dir2/   ls.out  passwd  setgid_files	test   text
+../    error   ls.sh*  result  setuid_files	test1
+dir1/  ls.err  my.sh   set     stickybit_files	test2

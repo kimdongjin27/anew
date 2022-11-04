@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "myheader.h"
 
-void main(){
+void main() {
   printf("AGE : %d \n", AGE);
-  
 }

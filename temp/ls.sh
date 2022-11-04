@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 'ls -l*'
+echo `ls -l *`

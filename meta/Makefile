@@ -1,8 +1,8 @@
-SRCS = $(willcard*.c)
-Progs = $(patsubst%.c,%,$(SRCS))
+SRCS = $(wildcard *.c)
+PROGS = $(patsubst %.c,%,$(SRCS))
 
 all : $(PROGS)
-%:%.C
-	gcc -o $@$<
+% : %.c
+	gcc -o $@ $<
 clean : $(PROGS)
 	rm -rf $^

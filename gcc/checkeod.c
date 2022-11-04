@@ -1,8 +1,6 @@
-#include <stdio.h>
-
-void checkeod(int x) {
-   if( x % 2 == 0)
-      printf("%d is even number~!!\n",x);
+int checkeod(int input) {
+   if( input % 2 == 0)
+      return 0;
    else
-      printf("%d is odd number~!!\n", x);
+      return 1;
 }
